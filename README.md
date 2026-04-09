@@ -4,7 +4,7 @@ PhysE-Inv is a physics-encoded inverse modeling framework that combines LSTM seq
 
 ## Status
 
-**Under review**, 2025. Code will be fully released upon acceptance.
+**Under review**, 2026. Code will be fully released upon acceptance.
 
 ## Dataset
 
