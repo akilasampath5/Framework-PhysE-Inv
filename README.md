@@ -1,10 +1,10 @@
-# PhysE-Inv: Physics-Encoded Inverse Modeling for Arctic Snow Depth Estimation
+# Framework-PhysE-Inv: Physics-Encoded Inverse Modeling for Arctic Snow Depth Estimation
 
 PhysE-Inv is a physics-encoded inverse modeling framework that combines LSTM sequence modeling, multi-head temporal attention, and contrastive learning to estimate latent snow-depth-related physical parameters from sparse ERA5 observations.
 
 ## Status
 
-**Under review**, 2026. Code will be fully released upon acceptance.
+**Under review**, 2025. Code will be fully released upon acceptance.
 
 ## Dataset
 
@@ -14,7 +14,7 @@ The Arctic sea ice dataset is publicly available at:
 ## Repository Structure
 
 ```
-PhysE-Inv/
+Framework-PhysE-Inv/
 ├── README.md
 ├── requirements.txt
 ├── src/
@@ -53,8 +53,8 @@ PhysE-Inv frames snow depth estimation as a **surjective inverse problem**:
 ## Installation
 
 ```bash
-git clone https://github.com/akilasampath5/PhysE-Inv.git
-cd PhysE-Inv
+git clone https://github.com/akilasampath5/Framework-PhysE-Inv.git
+cd Framework-PhysE-Inv
 pip install -r requirements.txt
 ```
 
